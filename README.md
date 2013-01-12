@@ -1,2 +1,2 @@
-ajaxify
+hijax
 =======
