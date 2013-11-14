@@ -4,8 +4,8 @@ Hijax is a no-refresh JavaScript library for creating Native-Like application.
 
 Consist
 =======
-Hijax is consist of seven parts: 
-core(hijax)\n
+Hijax is consist of seven parts: <br />
+core(hijax)<br />
 ajaxify(hijax.ajaxify), 
 module(hijax.module),
 cache(hijax.cache), 
