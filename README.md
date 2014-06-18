@@ -1,3 +1,6 @@
+此仓库停止维护，仅供先前使用项目作为参考！
+=======
+
 Hijax
 =======
 Hijax is a no-refresh JavaScript library for creating Native-Like application.
